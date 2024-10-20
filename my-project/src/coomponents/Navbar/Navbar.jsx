@@ -11,22 +11,22 @@ const Menu = [
     {
         id: 2,
         name: "Biryani",
-        link: "/#"
+        link: "#"
     },
     {
         id: 3,
         name: "Chicken Salad",
-        link: "/#"
+        link: "#"
     },
     {
         id: 4,
         name: "Beverages",
-        link: "/#"
+        link: "#"
     },
     {
         id: 5,
         name: "kids",
-        link: "/#"
+        link: "#"
     },
    
 ]
